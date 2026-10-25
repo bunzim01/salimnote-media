@@ -1,0 +1,28 @@
+{"posts":[
+ {"slug":"gaseupgi","thumb":{"tag":"가습기 청소","lines":["가습기 청소","물만 갈아도 절반"],"hl":"절반","sub":"매일 물 갈기부터 시작해요","emoji":"💧","tape":"BLUE","note":"YEL"},
+  "cards":[
+   {"title":["물은 매일","새로 갈아요"],"bullets":["남은 물은 버리기","물통 헹구고 새 물 채우기","고인 물이 가장 큰 문제"],"emoji":"🚰","v":"num","note":"YEL"},
+   {"title":["세척은","설명서대로"],"bullets":["제품마다 구조가 달라요","부품 닦는 법 먼저 확인","물에 세정제 임의로 넣지 않기"],"emoji":"📖","v":"dot","note":"PINK"},
+   {"title":["안 쓸 땐","완전히 말려요"],"bullets":["물을 다 비우기","부품 분리해서 바짝 말리기","젖은 채 보관하면 냄새"],"emoji":"🌬️","v":"dot","note":"MINT"},
+   {"title":["너무 습해지지","않게 봐요"],"bullets":["창문 결로는 신호예요","물방울 맺히면 잠깐 끄기","끄고 나서 환기하기"],"emoji":"⚠️","v":"warn"}]},
+ {"slug":"naengjanggo","thumb":{"tag":"냉장고 정리","lines":["냉장고 정리","꽉 채우면 손해"],"hl":"손해","sub":"찬 공기가 돌아야 골고루 시원해요","emoji":"🧊","tape":"MINT","note":"BLUE"},
+  "cards":[
+   {"title":["공기가 지나갈","틈을 둬요"],"bullets":["선반 앞뒤 틈 남기기","냉기 나오는 곳 막지 않기","막히면 칸마다 온도 차이"],"emoji":"❄️","v":"dot","note":"BLUE"},
+   {"title":["자리를","정해 두세요"],"bullets":["자주 꺼내는 건 앞쪽","상하기 쉬운 건 안쪽","남은 음식은 밀폐 용기"],"emoji":"📦","v":"num","note":"PINK"},
+   {"title":["잊힌 음식","정리하기"],"bullets":["일주일에 한 번 안쪽 확인","날짜 지난 건 정리","용기에 넣은 날짜 적기"],"emoji":"🗓️","v":"dot","note":"YEL"},
+   {"title":["흘린 건","바로 닦아요"],"bullets":["오래 두면 냄새가 배요","선반 분리는 설명서 확인"],"emoji":"🧽","v":"dot","note":"MINT"}]},
+ {"slug":"sugeon","thumb":{"tag":"수건 냄새","lines":["수건 냄새","빨아도 나는 이유"],"hl":"이유","sub":"덜 마른 시간이 문제예요","emoji":"🛁","tape":"PINK","note":"YEL"},
+  "cards":[
+   {"title":["젖은 수건","뭉쳐 두지 마요"],"bullets":["바구니에 뭉치면 냄새","바로 안 빨면 펼쳐 걸기"],"emoji":"🧺","v":"dot","note":"PINK"},
+   {"title":["세탁 끝나면","바로 꺼내요"],"bullets":["세탁기에 오래 두지 않기","끝나면 바로 널기"],"emoji":"⏰","v":"dot","note":"BLUE"},
+   {"title":["세제는","정량만 넣어요"],"bullets":["많이 넣어도 더 깨끗하지 않아요","덜 헹궈진 세제가 남을 수 있어요","섬유유연제는 표시 확인"],"emoji":"🧴","v":"dot","note":"YEL"},
+   {"title":["완전히 말리는 게","핵심이에요"],"bullets":["간격 띄워서 널기","겨울엔 욕실 환풍기 켜고","계속 냄새 나면 교체"],"emoji":"☀️","v":"num","note":"MINT"}]}
+],
+"threads":[
+ {"slug":"t1026-boiler","tag":"보일러 점검","lines":["보일러","추워지기 전에"],"hl":"전에","sub":"한 번 켜서 미리 확인해 봐","emoji":"🔥","tape":"PINK","note":"YEL"},
+ {"slug":"t1027-tumbler","tag":"텀블러 세척","lines":["텀블러 뚜껑","패킹 빼서 씻어?"],"hl":"패킹","sub":"틈새에 낀 음료가 냄새의 원인","emoji":"🥤","tape":"BLUE","note":"PINK"},
+ {"slug":"t1028-sponge","tag":"수세미 관리","lines":["수세미","젖은 채 두지 마"],"hl":"젖은 채","sub":"꼭 짜서 말리고, 닳으면 바꿔","emoji":"🧽","tape":"YEL","note":"MINT"},
+ {"slug":"t1029-foodwaste","tag":"음식물 쓰레기","lines":["음식물 쓰레기","물기부터 빼"],"hl":"물기","sub":"냄새가 덜 나는 첫 단계","emoji":"🗑️","tape":"MINT","note":"YEL"},
+ {"slug":"t1030-window","tag":"창틀 청소","lines":["창틀 먼지","물부터 뿌리지 마"],"hl":"물부터","sub":"마른 먼지 먼저 걷어내기","emoji":"🪟","tape":"PINK","note":"BLUE"},
+ {"slug":"t1031-static","tag":"겨울 정전기","lines":["겨울 정전기","건조해서 그래"],"hl":"건조","sub":"옷 소재와 실내 습도를 봐","emoji":"⚡","tape":"YEL","note":"PINK"}
+]}
