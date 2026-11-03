@@ -1,0 +1,489 @@
+{
+ "note": "네이버 로그인 풀림(10/27~11/3)으로 못 나간 블로그 글. 매일 자동 작업이 앞에서부터 3편씩 꺼내 예약하고, 예약한 항목은 이 목록에서 지운다. content 안의 {{IMG0}}~{{IMG4}} 를 images 순서대로 media_from_url 로 받은 새 media id 로 바꿔서 쓴다.",
+ "posts": [
+  {
+   "oldPostId": "post_05e93da2a7ba23d2",
+   "originalDate": "2026-10-26 14:00",
+   "title": "세탁소 비닐 씌운 채 보관하면 손해, 겨울옷 옷장 보관법",
+   "tags": [
+    "겨울옷보관",
+    "세탁소비닐",
+    "옷장정리",
+    "옷장습기",
+    "코트보관",
+    "살림팁",
+    "살림한수"
+   ],
+   "content": "![세탁소 비닐 그대로 두면 손해 제목 카드](media:{{IMG0}})\n\n겨울 코트와 니트를 꺼내 세탁소에 맡기는 철이에요. 찾아온 옷을 비닐째 옷장에 걸어 두는 분들이 많은데, 그러면 오히려 옷이 눅눅해질 수 있어요. 돈 들여 맡긴 옷, 보관까지 잘해 두면 좋겠죠.\n\n**가져오면 비닐부터 벗겨요**\n\n![가져오면 비닐부터 벗겨요 요약 카드](media:{{IMG1}})\n\n세탁소 비닐은 옷을 옮기는 동안 먼지를 막아 주는 용도예요. 씌운 채로 오래 두면 바람이 통하지 않아 습기가 갇힐 수 있어요. 집에 오면 비닐부터 벗겨 주세요. 옷걸이에 걸린 종이 커버나 꼬리표도 함께 정리해 두면 깔끔해요.\n\n---{.line1}\n\n**잠깐 바람을 쐬어 줘요**\n\n![잠깐 바람 쐬어 줘요 요약 카드](media:{{IMG2}})\n\n비닐을 벗긴 옷은 바로 옷장에 넣기보다 통풍이 잘 되는 곳에 잠시 걸어 두세요. 세탁소 냄새가 남아 있다면 냄새가 빠진 뒤에 넣는 게 좋아요. 직사광선이 강한 곳은 색이 바랠 수 있으니 그늘지고 바람 통하는 곳이 알맞아요. 주머니 속에 영수증이나 휴지가 남아 있지 않은지도 이때 함께 확인해 보세요.\n\n---{.line1}\n\n**옷장엔 간격을 두고 걸어요**\n\n![옷장엔 간격을 두고 요약 카드](media:{{IMG3}})\n\n옷을 빽빽하게 걸면 사이로 공기가 돌지 않아요.\n\n- 옷과 옷 사이에 손이 들어갈 만큼 여유를 둬요\n- 먼지가 걱정되면 통기되는 부직포나 천 커버를 써요\n- 니트는 걸어 두면 늘어날 수 있으니 개어서 보관해요\n\n소재별 보관법은 옷 안쪽 라벨을 함께 확인해 주세요.\n\n---{.line1}\n\n**옷장 습기도 확인해요**\n\n![옷장 습기 확인해요 주의 카드](media:{{IMG4}})\n\n옷을 잘 넣어도 옷장 자체가 습하면 소용없어요.\n\n- 옷장 제습제가 가득 찼는지 확인하고 바꿔요\n- 맑은 날엔 옷장 문을 열어 환기해요\n- 옷장을 벽에 바짝 붙이지 말고 살짝 띄워요\n\n벽 쪽에 곰팡이 얼룩이 보이면 옷을 꺼내고 원인부터 살펴보세요. 옷장 바닥에 상자나 가방을 가득 쌓아 두면 공기가 잘 돌지 않으니 조금 비워 두는 것도 도움이 돼요.\n\n오늘은 옷장에 걸린 세탁소 비닐 하나만 벗겨 보세요.",
+   "images": [
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/thumbs/deurai.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/deurai1.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/deurai2.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/deurai3.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/deurai4.jpg"
+   ]
+  },
+  {
+   "oldPostId": "post_4744b280e065fc71",
+   "originalDate": "2026-10-27 10:00",
+   "title": "싱크대 아래 누수, 물 새는 줄 모를 때 수납장 열고 볼 4가지",
+   "tags": [
+    "싱크대누수",
+    "싱크대하부장",
+    "싱크대정리",
+    "주방살림",
+    "배관점검",
+    "살림팁",
+    "살림한수"
+   ],
+   "content": "![싱크대 아래 열어 본 지 오래? 썸네일](media:{{IMG0}})\n\n싱크대 아래 수납장, 마지막으로 안쪽까지 들여다본 게 언제였나요? 물건을 가득 넣어 두면 배관에서 물이 조금씩 새도 한참 모르고 지나갈 수 있어요. 오늘은 문을 활짝 열고 네 가지만 살펴봐요.\n\n---{.line1}\n\n**배관 연결부부터 만져 봐요**\n\n![배관 연결부 만져 봐요 요약 카드](media:{{IMG1}})\n\n물건을 잠깐 꺼내고 배관이 이어지는 부분을 손으로 만져 보세요. 축축한 느낌이 들면 마른 휴지로 한 번 닦아 두고, 물을 쓴 뒤에 다시 확인해 봐요. 같은 자리에 또 물방울이 맺힌다면 그곳에서 새고 있다는 신호예요. 손이 잘 안 닿는 안쪽은 휴대폰 손전등으로 비춰 보면 편해요. 배수관뿐 아니라 수도꼭지로 이어지는 급수관 쪽도 함께 봐 주세요.\n\n---{.line1}\n\n**바닥 얼룩도 살펴봐요**\n\n![바닥 얼룩도 살펴봐요 요약 카드](media:{{IMG2}})\n\n배관이 말라 보여도 수납장 바닥에 흔적이 남아 있을 수 있어요.\n\n- 둥글게 번진 물 자국이 있는지\n- 거뭇한 곰팡이 얼룩이 생겼는지\n- 바닥판이 들뜨거나 부풀어 있는지\n\n이런 흔적이 보이면 예전부터 물이 닿았을 가능성이 있으니 조금 더 주의 깊게 지켜봐요.\n\n---{.line1}\n\n**물건은 통에 담아 정리해요**\n\n![물건은 통에 담아요 요약 카드](media:{{IMG3}})\n\n세제나 청소용품을 바닥에 바로 두면 물이 새도 잘 안 보이고, 물건 밑이 젖기도 쉬워요. 바구니나 통에 담아 두면 꺼내 보기도 쉽고, 바닥 상태도 한눈에 들어와요. 세제 뚜껑은 꼭 닫아 두고, 공기가 돌 수 있게 꽉 채우지 않는 것이 좋아요. 가끔 문을 열어 환기해 주는 것도 잊지 마세요.\n\n---{.line1}\n\n**이럴 땐 점검을 받아요**\n\n![이럴 땐 점검 받아요 주의 카드](media:{{IMG4}})\n\n닦아도 같은 자리가 또 젖거나, 환기해도 냄새가 빠지지 않는다면 배관 점검을 받아 보는 게 안전해요. 연결부를 무리하게 풀거나 분해하면 오히려 더 샐 수 있으니, 관리사무소나 전문 업체에 먼저 문의해 보세요.\n\n오늘 설거지 끝나고 싱크대 아래 문을 한 번 열어 배관 연결부만 만져 보세요.",
+   "images": [
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/thumbs/sinkdae.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/sinkdae1.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/sinkdae2.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/sinkdae3.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/sinkdae4.jpg"
+   ]
+  },
+  {
+   "oldPostId": "post_6ad0d53f9d8bccf7",
+   "originalDate": "2026-10-27 14:00",
+   "title": "수납장 정리, 있는 물건 또 사지 않게 하는 수납 4가지",
+   "tags": [
+    "수납정리",
+    "수납장정리",
+    "정리정돈",
+    "수납팁",
+    "집정리",
+    "살림팁",
+    "살림한수"
+   ],
+   "content": "![있는 물건 또 사지 않게 썸네일](media:{{IMG0}})\n\n분명 집에 있는 것 같은데 못 찾아서 또 사 온 적 있지 않나요? 수납장이 가득 차 있으면 있는 물건도 없는 물건이 돼요. 찾기 쉬운 수납은 같은 물건을 두 번 사지 않게 해 줘요.\n\n---{.line1}\n\n**자주 쓰는 건 앞쪽에 둬요**\n\n![자주 쓰는 건 앞쪽에 둬요 요약 카드](media:{{IMG1}})\n\n수납 정리는 한 번에 집 전체를 하려고 하면 금방 지쳐요. 한 칸씩 나눠서 해도 충분해요.\n\n매일 손이 가는 물건은 허리를 숙이거나 까치발을 들지 않아도 닿는 높이에 두세요. 가끔 쓰는 물건은 안쪽이나 아래 칸으로 보내고요. 높은 칸에는 꺼낼 때 떨어져도 덜 위험한 가벼운 물건을 올려 두는 편이 좋아요.\n\n---{.line1}\n\n**같은 종류끼리 모아요**\n\n![같은 종류끼리 모아요 요약 카드](media:{{IMG2}})\n\n건전지는 서랍에도 있고 신발장에도 있다면, 찾을 때마다 집 안을 다 뒤지게 돼요.\n\n- 같은 종류는 한곳에 모으기\n- 여기저기 흩어 두지 않기\n- 새로 산 물건도 그 자리에 넣기\n\n한 곳만 열어 보면 끝나니 남은 개수도 바로 보여요. 장 보러 가기 전에 그 칸만 확인하면 겹쳐 사는 일이 줄어들어요.\n\n---{.line1}\n\n**안쪽 물건엔 이름표를 붙여요**\n\n![안쪽 물건엔 이름표를 요약 카드](media:{{IMG3}})\n\n상자나 불투명한 통에 넣은 물건은 금방 잊어버려요. 겉면에 무엇이 들었는지 적어 두면 뚜껑을 열지 않아도 알 수 있어요. 마스킹테이프에 펜으로 적어 붙이는 것만으로도 충분해요. 내용물이 바뀌면 이름표도 같이 고쳐 두세요. 가족 모두가 같은 이름표를 보면 누가 정리해도 제자리로 돌아가요.\n\n---{.line1}\n\n**꽉 채우지 말고 여유를 남겨요**\n\n![꽉 채우지 말고 여유를 요약 카드](media:{{IMG4}})\n\n빈틈없이 채운 수납장은 하나를 꺼내면 줄줄이 무너지기 쉬워요. 바닥에 겹겹이 쌓기보다 칸을 나눠 세워 두고, 빈 칸을 조금 남겨 두세요. 그래야 새 물건이 들어와도 제자리를 찾을 수 있어요. 정리하다 나온 쓰지 않는 물건은 따로 모아 두고, 버릴지 나눌지 천천히 정해도 괜찮아요.\n\n오늘은 수납장 한 칸만 골라 같은 종류끼리 모아 보세요.",
+   "images": [
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/thumbs/sunapjang.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/sunapjang1.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/sunapjang2.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/sunapjang3.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/sunapjang4.jpg"
+   ]
+  },
+  {
+   "oldPostId": "post_e9a94e04a10fe68b",
+   "originalDate": "2026-10-27 18:00",
+   "title": "전기장판 꺼내기 전에, 켜기 전 확인할 4가지",
+   "tags": [
+    "전기장판",
+    "전기장판관리",
+    "겨울살림",
+    "겨울준비",
+    "가전관리",
+    "살림팁",
+    "살림한수"
+   ],
+   "content": "![전기장판 켜기 전에 봐요 썸네일](media:{{IMG0}})\n\n밤공기가 쌀쌀해지면서 전기장판을 꺼내는 집이 많아요. 일 년 가까이 넣어 두었던 제품이라 켜기 전에 한 번 살펴보는 게 좋아요. 꺼낸 날 확인할 네 가지를 정리했어요.\n\n---{.line1}\n\n**선과 플러그부터 봐요**\n\n![선과 플러그 먼저 봐요 요약 카드](media:{{IMG1}})\n\n보관하면서 선이 눌리거나 꺾였을 수 있어요.\n\n1. 전선 피복이 벗겨지거나 갈라진 곳이 없는지\n2. 플러그와 콘센트 연결부에 그을음이 없는지\n3. 조절기 선이 심하게 꺾여 있지 않은지\n\n이상한 곳이 보이면 테이프로 감아서 쓰지 말고, 사용을 멈춘 뒤 제조사에 점검을 문의하세요.\n\n---{.line1}\n\n**설명서와 라벨을 확인해요**\n\n![설명서와 라벨 확인해요 요약 카드](media:{{IMG2}})\n\n전기장판은 제품마다 세탁 방법이 달라요. 물세탁이 되는지, 조절기를 어떻게 분리하는지 라벨과 설명서를 먼저 확인하세요. 설명서를 잃어버렸다면 제조사 안내를 찾아보거나 문의하는 게 안전해요. 확인이 안 될 때는 함부로 물에 담그지 않는 게 좋아요.\n\n---{.line1}\n\n**깔 때는 평평하게 펴요**\n\n![깔 때는 평평하게 요약 카드](media:{{IMG3}})\n\n접히거나 구겨진 채로 쓰면 한 곳에 열이 몰릴 수 있어요. 바닥이나 매트리스 위에 평평하게 펴고, 위에 무거운 물건을 올려 두지 않아요. 침대 틈 사이에 선이 끼거나 눌리지 않는지도 함께 봐 주세요. 선이 사람이 다니는 길을 가로지르면 걸려 넘어지거나 밟혀 상할 수 있으니, 벽 쪽으로 정리해 두면 좋아요.\n\n---{.line1}\n\n**쓸 때는 이것만 주의해요**\n\n![쓸 때 주의해요 주의 카드](media:{{IMG4}})\n\n- 외출할 때는 전원을 끄고 플러그를 뽑기\n- 타는 냄새나 이상한 소리가 나면 바로 끄기\n- 오래 쓴 제품은 상태를 더 꼼꼼히 보기\n\n사용 방법과 주의 사항은 제품마다 다르니 제품 설명서를 따르는 것이 가장 정확해요. 다 쓰고 다시 넣을 때도 설명서의 보관 방법을 확인해 두면 내년에 꺼낼 때 편해요.\n\n오늘 전기장판을 꺼냈다면 켜기 전에 선과 플러그부터 한 번 살펴보세요.",
+   "images": [
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/thumbs/jeongijangpan.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/jeongijangpan1.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/jeongijangpan2.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/jeongijangpan3.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/jeongijangpan4.jpg"
+   ]
+  },
+  {
+   "oldPostId": "post_a87f971ffc316769",
+   "originalDate": "2026-10-28 10:00",
+   "title": "패딩 세탁, 집에서 빨기 전에 라벨부터 확인할 4가지",
+   "tags": [
+    "패딩세탁",
+    "패딩빨래",
+    "겨울옷세탁",
+    "세탁라벨",
+    "겨울살림",
+    "살림팁",
+    "살림한수"
+   ],
+   "content": "![패딩 빨기 전에 라벨부터 봐요 썸네일](media:{{IMG0}})\n\n날이 추워지면서 옷장에서 패딩을 꺼내는 집이 많아요. 지난겨울에 입던 그대로 넣어 두었다면 입기 전에 한 번 빨고 싶어지죠. 그런데 패딩은 아무렇게나 세탁기에 넣으면 충전재가 뭉치거나 겉감이 상할 수 있어요. 빨기 전에 확인할 네 가지를 정리했어요.\n\n---{.line1}\n\n**세탁 라벨부터 먼저 봐요**\n\n![세탁 라벨 먼저 봐요 요약 카드](media:{{IMG1}})\n\n패딩은 제품마다 세탁 방법이 달라요. 옷 안쪽의 세탁 라벨을 먼저 확인해 주세요.\n\n1. 물세탁이 가능한지\n2. 드라이클리닝 전용인지\n3. 손세탁만 되는지, 세탁기도 되는지\n\n드라이클리닝 전용이라면 집에서 빨지 말고 세탁소에 맡기는 게 좋아요. 라벨이 지워졌거나 헷갈리면 제조사에 문의해 보세요.\n\n---{.line1}\n\n**빨기 전에 이렇게 준비해요**\n\n![빨기 전에 준비해요 요약 카드](media:{{IMG2}})\n\n물세탁이 되는 패딩이라면 넣기 전에 조금만 준비해 주세요.\n\n- 지퍼와 단추, 벨크로를 모두 잠그기\n- 겉감이 덜 쓸리도록 뒤집어서 넣기\n- 세제는 라벨과 설명서에 맞는 것으로 고르기\n\n목깃이나 소매 끝처럼 때가 잘 타는 곳은 미리 살살 부분 세탁을 해 두면 좋아요.\n\n---{.line1}\n\n**속까지 바짝 말려요**\n\n![속까지 바짝 말려요 요약 카드](media:{{IMG3}})\n\n패딩은 겉은 말라 보여도 속 충전재에 물기가 남아 있기 쉬워요. 바람이 잘 통하는 곳에서 충분히 말리고, 마르는 동안 뭉친 충전재를 손으로 톡톡 두드려 풀어 주세요. 건조기를 써도 되는지는 제품마다 다르니 라벨의 건조 표시를 꼭 확인해요.\n\n---{.line1}\n\n**이건 주의해요**\n\n![패딩 세탁 주의 카드](media:{{IMG4}})\n\n- 섬유유연제를 써도 되는지 라벨과 설명서 확인하기\n- 세게 비틀어 짜지 않기\n- 덜 마른 채로 옷장에 넣지 않기\n\n덜 마른 패딩을 넣어 두면 냄새가 날 수 있어요. 완전히 마른 뒤 걸어서 보관하는 게 좋아요.\n\n오늘 옷장에서 패딩을 꺼냈다면, 빨기 전에 세탁 라벨부터 한 번 확인해 보세요.",
+   "images": [
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/thumbs/paeding.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/paeding1.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/paeding2.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/paeding3.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/paeding4.jpg"
+   ]
+  },
+  {
+   "oldPostId": "post_9e4997095a79f9cb",
+   "originalDate": "2026-10-28 14:00",
+   "title": "공기청정기 필터 청소, 틀어 두기만 하면 안 되는 이유와 관리법",
+   "tags": [
+    "공기청정기필터",
+    "공기청정기청소",
+    "필터관리",
+    "가전관리",
+    "겨울살림",
+    "살림팁",
+    "살림한수"
+   ],
+   "content": "![공기청정기 필터 열어 봤나요 썸네일](media:{{IMG0}})\n\n창문을 덜 열게 되는 계절이 오면 공기청정기를 켜 두는 시간이 길어져요. 그런데 틀어 두기만 하고 필터는 한 번도 열어 보지 않은 집도 많아요. 오늘은 공기청정기 필터를 살펴보는 순서를 정리했어요.\n\n---{.line1}\n\n**청소 전에 전원부터 뽑아요**\n\n![전원부터 뽑아요 요약 카드](media:{{IMG1}})\n\n필터를 꺼내거나 본체를 닦기 전에는 꼭 전원을 끄고 플러그를 뽑아 주세요. 그리고 설명서를 옆에 펼쳐 두면 좋아요. 필터를 빼는 방법과 순서가 제품마다 달라서, 설명서대로 하면 부품을 상하게 할 일이 줄어요. 설명서가 없다면 제조사 안내를 먼저 찾아보세요.\n\n---{.line1}\n\n**겉 필터 먼지를 털어 내요**\n\n![겉 필터 먼지 털어 내요 요약 카드](media:{{IMG2}})\n\n많은 공기청정기는 맨 바깥쪽에 큰 먼지를 걸러 주는 프리필터가 있어요.\n\n1. 프리필터에 먼지가 쌓였는지 보기\n2. 청소기나 부드러운 솔로 먼지 걷어 내기\n3. 물세척이 되는 제품인지 설명서로 확인하기\n4. 물로 씻었다면 완전히 말린 뒤 끼우기\n\n젖은 채로 끼우면 냄새의 원인이 될 수 있어요.\n\n---{.line1}\n\n**교체 시기를 확인해요**\n\n![교체 시기 확인해요 요약 카드](media:{{IMG3}})\n\n안쪽 필터는 청소가 아니라 교체하는 방식인 경우가 많아요. 교체 주기는 제품과 사용 환경에 따라 다르니 설명서에 적힌 기준을 확인해 주세요. 교체 알림 기능이 있는 제품이라면 알림이 떴을 때 미루지 않는 게 좋아요. 바람에서 냄새가 나거나 필터 색이 많이 변했다면 점검해 볼 때예요.\n\n---{.line1}\n\n**이건 주의해요**\n\n![공기청정기 주의 카드](media:{{IMG4}})\n\n- 물세척을 하면 안 되는 필터도 있으니 함부로 씻지 않기\n- 흡입구와 배출구를 가구나 커튼으로 막지 않기\n- 먼지 센서 부분도 설명서 방법대로 닦기\n\n놓는 위치나 관리 방법은 제품마다 안내가 다르니 설명서를 따르는 것이 가장 정확해요.\n\n오늘은 공기청정기 전원을 잠깐 끄고 겉 필터부터 한 번 열어 보세요.",
+   "images": [
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/thumbs/gonggi.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/gonggi1.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/gonggi2.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/gonggi3.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/gonggi4.jpg"
+   ]
+  },
+  {
+   "oldPostId": "post_b8ee0a0dddcf8110",
+   "originalDate": "2026-10-28 18:00",
+   "title": "보일러 점검, 겨울에 처음 켜기 전 집에서 살펴볼 4가지",
+   "tags": [
+    "보일러점검",
+    "보일러켜기전",
+    "난방준비",
+    "겨울준비",
+    "겨울살림",
+    "살림팁",
+    "살림한수"
+   ],
+   "content": "![보일러 켜기 전 살펴볼 것 썸네일](media:{{IMG0}})\n\n아침저녁으로 쌀쌀해지면 보일러를 처음 켜는 날이 다가와요. 여름 내내 쉬던 보일러는 막상 추워진 뒤에 켰다가 이상을 발견하면 수리를 기다리는 동안 고생할 수 있어요. 본격적으로 켜기 전에 집에서 눈으로 살펴볼 네 가지를 정리했어요.\n\n---{.line1}\n\n**보일러 주변 물건부터 치워요**\n\n![주변 물건 치워요 요약 카드](media:{{IMG1}})\n\n보일러실이나 다용도실은 어느새 짐을 쌓아 두는 곳이 되기 쉬워요.\n\n1. 보일러 바로 앞과 옆에 놓인 물건 정리하기\n2. 종이 상자, 옷가지처럼 타기 쉬운 것 치우기\n3. 공기가 드나드는 곳을 막지 않기\n\n주변이 비어 있어야 점검할 때도 잘 보여요.\n\n---{.line1}\n\n**배기통과 배관을 눈으로 봐요**\n\n![배기통과 배관 눈으로 봐요 요약 카드](media:{{IMG2}})\n\n가스보일러라면 배기통이 보일러와 벽 사이에 제대로 연결되어 있는지 살펴보세요. 빠지거나 벌어진 곳, 녹슬어 구멍 난 곳이 없는지 확인해요. 보일러 아래와 배관 연결부에 물 자국이나 물방울이 없는지도 함께 봐 주세요. 이상해 보이면 직접 분해하거나 고치지 말고 제조사 서비스나 전문 업체에 점검을 맡기는 게 안전해요.\n\n---{.line1}\n\n**처음 켜는 날 확인해요**\n\n![처음 켜는 날 확인해요 요약 카드](media:{{IMG3}})\n\n- 설명서에 나온 난방수 압력 범위와 게이지 비교하기\n- 평소와 다른 소리가 나는지 듣기\n- 조절기에 에러 표시가 뜨는지 보기\n\n에러 표시가 뜨면 설명서에서 그 표시의 뜻을 찾아보고, 안내대로 해도 계속되면 서비스센터에 문의하세요.\n\n---{.line1}\n\n**가스 냄새가 나면 이렇게 해요**\n\n![가스 냄새가 나면 주의 카드](media:{{IMG4}})\n\n- 불을 켜거나 전기 스위치, 플러그를 건드리지 않기\n- 창문과 문을 열어 환기하기\n- 가스 밸브를 잠글 수 있다면 잠그고, 가스 공급사나 관리사무소에 연락하기\n\n냄새가 날 때는 직접 원인을 찾으려 하지 말고 전문가의 안내를 따르는 게 가장 안전해요.\n\n오늘은 보일러 앞에 쌓인 물건부터 치우고, 배기통 연결 부분을 한 번 살펴보세요.",
+   "images": [
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/thumbs/boiler.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/boiler1.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/boiler2.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/boiler3.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/boiler4.jpg"
+   ]
+  },
+  {
+   "oldPostId": "post_e2680c17ef526a62",
+   "originalDate": "2026-10-29 10:00",
+   "title": "냉동실 정리, 넣어 두고 잊어버리는 음식 줄이는 4가지",
+   "tags": [
+    "냉동실정리",
+    "냉동보관",
+    "소분보관",
+    "주방정리",
+    "겨울살림",
+    "살림팁",
+    "살림한수"
+   ],
+   "content": "![냉동실 속 잊힌 음식 없나요 썸네일](media:{{IMG0}})\n\n냉동실은 넣을 때는 쉬운데 꺼낼 때가 어려운 곳이에요. 안쪽에 들어간 봉지는 무엇인지, 언제 넣었는지 몰라 결국 버리게 되기도 하고요. 김장이나 겨울 장보기로 냉동실이 바빠지기 전에 정리하는 습관 네 가지를 모았어요.\n\n---{.line1}\n\n**넣을 때 이름과 날짜를 적어요**\n\n![넣을 때 이름과 날짜 적어요 요약 카드](media:{{IMG1}})\n\n얼고 나면 고기인지 국인지 겉으로 구분하기 어려워요.\n\n1. 봉지나 용기에 무엇인지 적기\n2. 넣은 날짜를 함께 적기\n3. 문을 열었을 때 보이는 쪽에 붙이기\n\n마스킹테이프와 네임펜을 냉동실 근처에 두면 적는 일이 훨씬 쉬워져요.\n\n---{.line1}\n\n**한 번 먹을 만큼 나눠 담아요**\n\n![먹을 만큼 나눠 담아요 요약 카드](media:{{IMG2}})\n\n큰 덩어리로 얼리면 조금만 쓰고 싶어도 통째로 녹여야 해요.\n\n- 한 번 먹을 양씩 나눠 담기\n- 봉지에 담았다면 납작하게 펴서 얼리기\n- 공기를 최대한 빼고 밀봉하기\n\n납작하게 얼리면 자리를 덜 차지하고, 꺼낼 때도 필요한 만큼 고르기 편해요.\n\n---{.line1}\n\n**먼저 먹을 것은 앞쪽에 둬요**\n\n![먼저 먹을 것 앞쪽에 둬요 요약 카드](media:{{IMG3}})\n\n새로 산 것을 앞에 넣다 보면 오래된 것이 자꾸 뒤로 밀려요. 정리할 때 오래된 것을 앞으로 꺼내 두고, 고기와 생선, 조리한 음식, 간식처럼 종류별로 칸이나 바구니를 나눠 보세요. 납작하게 얼린 봉지는 책처럼 세워 두면 한눈에 보여요.\n\n---{.line1}\n\n**이건 꼭 주의해요**\n\n![냉동실 정리 주의 카드](media:{{IMG4}})\n\n- 한 번 녹인 음식은 다시 얼리지 않기\n- 뜨거운 음식은 한 김 식힌 뒤 넣기\n- 보관 기간은 포장지 표시와 냉장고 설명서 확인하기\n\n얼려 두었다고 언제까지나 괜찮은 건 아니니, 날짜를 보고 오래된 것부터 먹는 게 좋아요.\n\n오늘은 냉동실 문을 열고 이름 없는 봉지 하나에 무엇인지와 날짜를 적어 보세요.",
+   "images": [
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/thumbs/naengdongsil.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/naengdongsil1.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/naengdongsil2.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/naengdongsil3.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/naengdongsil4.jpg"
+   ]
+  },
+  {
+   "oldPostId": "post_f4d710a5877dab80",
+   "originalDate": "2026-10-29 14:00",
+   "title": "신발장 정리, 겨울 부츠 꺼내기 전 습기와 냄새 잡는 4가지",
+   "tags": [
+    "신발장정리",
+    "신발장습기",
+    "부츠보관",
+    "신발냄새",
+    "겨울살림",
+    "살림팁",
+    "살림한수"
+   ],
+   "content": "![겨울 신발 꺼내기 전 신발장부터 열어요 썸네일](media:{{IMG0}})\n\n날이 추워지면 신발장 깊숙이 넣어 둔 부츠와 겨울 신발을 꺼낼 때가 와요. 그런데 신발장은 문을 닫아 두는 시간이 길어서 습기와 냄새가 고이기 쉬운 곳이에요. 겨울 신발을 꺼내는 김에 신발장까지 한 번에 손보는 방법을 정리했어요.\n\n---{.line1}\n\n**신발장 문을 열어 환기해요**\n\n![신발장 문 열어 환기해요 요약 카드](media:{{IMG1}})\n\n1. 맑고 건조한 날 신발장 문을 활짝 열어 두기\n2. 신발을 꺼낸 김에 안쪽 먼지와 흙 털어 내기\n3. 선반은 마른 걸레로 닦고 물기 없이 말리기\n\n물걸레를 썼다면 문을 닫기 전에 충분히 말려 주세요.\n\n---{.line1}\n\n**꺼낸 신발을 먼저 살펴봐요**\n\n![꺼낸 신발 먼저 살펴봐요 요약 카드](media:{{IMG2}})\n\n오래 넣어 둔 신발은 신기 전에 한 번 확인해요.\n\n- 겉이나 안쪽에 곰팡이 얼룩이 없는지\n- 밑창이 갈라지거나 떨어진 곳은 없는지\n- 꿉꿉한 냄새가 나는지\n\n얼룩이 보이면 다른 신발과 떨어뜨려 두고, 소재에 맞는 관리법을 확인한 뒤 손질하는 게 좋아요.\n\n---{.line1}\n\n**신고 온 신발은 말려서 넣어요**\n\n![신고 온 신발 말려서 넣어요 요약 카드](media:{{IMG3}})\n\n눈이나 비를 맞은 신발을 바로 신발장에 넣으면 습기가 안에 갇혀요. 현관에 잠시 두고 그늘에서 바람을 쐬어 말린 뒤 넣어 주세요. 안쪽까지 젖었다면 신문지를 구겨 넣어 두었다가 젖으면 갈아 주는 방법도 있어요.\n\n---{.line1}\n\n**이건 주의해요**\n\n![신발 관리 주의 카드](media:{{IMG4}})\n\n- 빨리 말리려고 난로나 히터 바로 앞에 두지 않기\n- 가죽이나 스웨이드는 라벨과 관리 안내 먼저 확인하기\n- 신발장 제습제가 가득 찼으면 새것으로 바꾸기\n\n센 열에 가까이 두면 신발이 변형되거나 상할 수 있으니 바람으로 천천히 말리는 게 안전해요.\n\n오늘은 신발장 문을 열어 두고, 제습제가 찼는지부터 한 번 확인해 보세요.",
+   "images": [
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/thumbs/sinbaljang.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/sinbaljang1.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/sinbaljang2.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/sinbaljang3.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/sinbaljang4.jpg"
+   ]
+  },
+  {
+   "oldPostId": "post_3ae6f92b64361a1e",
+   "originalDate": "2026-10-29 18:00",
+   "title": "실내 빨래 건조, 겨울에 방 안에서 냄새 없이 말리는 4가지",
+   "tags": [
+    "실내건조",
+    "빨래건조",
+    "빨래냄새",
+    "겨울빨래",
+    "겨울살림",
+    "살림팁",
+    "살림한수"
+   ],
+   "content": "![겨울 빨래 방 안에서 말릴 때 썸네일](media:{{IMG0}})\n\n날이 추워지면 베란다보다 방 안에 빨래를 너는 날이 많아져요. 그런데 실내에서 말린 빨래는 마르는 데 오래 걸리고, 그사이 꿉꿉한 냄새가 배기 쉬워요. 겨울에 실내에서 빨래를 잘 말리는 방법 네 가지를 정리했어요.\n\n---{.line1}\n\n**빨래가 끝나면 바로 꺼내요**\n\n![빨래 끝나면 바로 꺼내요 요약 카드](media:{{IMG1}})\n\n1. 세탁이 끝난 빨래를 세탁기 안에 오래 두지 않기\n2. 꺼내서 한 장씩 탁탁 털어 주름 펴기\n\n젖은 빨래가 뭉친 채 있으면 냄새가 생기기 쉬워요. 세탁 예약 기능을 쓴다면 끝나는 시간을 집에 있을 때로 맞춰 두면 좋아요.\n\n---{.line1}\n\n**간격을 두고 널어요**\n\n![간격을 두고 널어요 요약 카드](media:{{IMG2}})\n\n- 옷과 옷 사이를 띄워서 바람이 지나가게 하기\n- 두꺼운 옷은 바깥쪽에, 얇은 옷은 안쪽에 널기\n- 주머니가 있는 바지는 뒤집어 널기\n\n빨래가 많은 날에는 한 번에 몰아서 널기보다 나눠서 세탁하는 것도 방법이에요.\n\n---{.line1}\n\n**공기가 돌게 해요**\n\n![공기가 돌게 해요 요약 카드](media:{{IMG3}})\n\n닫힌 방에 빨래를 널면 습기가 방 안에 그대로 머물러요. 틈틈이 창문을 열어 환기하고, 선풍기나 서큘레이터로 빨래 쪽에 바람을 보내 주세요. 제습기가 있다면 빨래 가까이에서 함께 쓰면 도움이 돼요. 방문을 닫고 쓸지 여부는 제습기 설명서를 따라 주세요.\n\n---{.line1}\n\n**이건 주의해요**\n\n![실내 빨래 건조 주의 카드](media:{{IMG4}})\n\n- 전기난로나 히터 가까이, 위에 빨래 널지 않기\n- 덜 마른 채로 개어 서랍에 넣지 않기\n- 창에 물방울이 맺히면 환기하고 닦아 주기\n\n난방기구 주변에 빨래를 두면 화재 위험이 있으니 거리를 충분히 두고, 제품 설명서의 주의 사항을 지켜 주세요.\n\n오늘 빨래를 널 때는 옷 사이 간격부터 한 뼘씩 띄워 보세요.",
+   "images": [
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/thumbs/silnaegeonjo.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/silnaegeonjo1.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/silnaegeonjo2.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/silnaegeonjo3.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/silnaegeonjo4.jpg"
+   ]
+  },
+  {
+   "oldPostId": "post_a065cb85d5076a32",
+   "originalDate": "2026-10-30 10:00",
+   "title": "도마 위생, 하나로 다 썰고 있다면 바꿔 볼 4가지",
+   "tags": [
+    "도마위생",
+    "도마관리",
+    "주방위생",
+    "도마세척",
+    "주방살림",
+    "살림팁",
+    "살림한수"
+   ],
+   "content": "![도마 하나로 다 썰고 있나요 썸네일](media:{{IMG0}})\n\n도마는 매일 쓰는 주방 도구라서 오히려 관리를 놓치기 쉬워요. 겉으로 깨끗해 보여도 칼자국 사이에 물기와 음식 찌꺼기가 남을 수 있거든요. 쓰는 법부터 씻고 말리는 습관까지 도마 위생을 정리했어요.\n\n---{.line1}\n\n**재료별로 도마를 나눠요**\n\n![재료별로 도마를 나눠요 요약 카드](media:{{IMG1}})\n\n1. 날고기와 생선을 써는 도마는 따로 두기\n2. 바로 먹는 채소와 과일용 도마도 따로 두기\n3. 색이나 표시로 구분해 헷갈리지 않게 하기\n\n도마가 하나뿐이라면 채소처럼 바로 먹는 재료를 먼저 썰고, 날고기는 나중에 써는 순서를 지키는 게 좋아요.\n\n---{.line1}\n\n**쓰고 나면 바로 씻어요**\n\n![쓰고 나면 바로 씻어요 요약 카드](media:{{IMG2}})\n\n쓴 도마를 싱크대에 그냥 두면 찌꺼기가 말라붙어 닦기 더 힘들어져요.\n\n- 주방세제를 묻힌 수세미로 앞뒤 모두 닦기\n- 칼자국 사이와 가장자리도 꼼꼼히 닦기\n- 흐르는 물로 세제를 충분히 헹구기\n\n날고기를 썬 도마는 다른 그릇과 섞지 말고 먼저 따로 씻어 주세요.\n\n---{.line1}\n\n**세워서 바짝 말려요**\n\n![세워서 바짝 말려요 요약 카드](media:{{IMG3}})\n\n씻은 도마를 눕혀 두면 바닥에 닿은 면이 잘 마르지 않아요. 도마 거치대나 벽에 기대어 세워 두고, 바람이 통하는 곳에서 양면이 다 마르게 해 주세요. 젖은 도마끼리 겹쳐 두지 않는 것도 중요해요.\n\n---{.line1}\n\n**이건 주의해요**\n\n![도마 관리 주의 카드](media:{{IMG4}})\n\n- 표백제나 소독제를 다른 세제와 섞어 쓰지 않기\n- 소독할 때는 제품 라벨의 사용법과 희석 방법 따르기\n- 나무 도마는 소재에 맞는 관리법을 먼저 확인하기\n- 칼자국이 깊게 패였거나 얼룩이 빠지지 않으면 교체 고민하기\n\n세제를 섞으면 위험한 가스가 생길 수 있으니 한 가지씩, 안내대로만 써 주세요.\n\n오늘은 저녁 설거지 끝에 도마를 세워서 말려 보세요.",
+   "images": [
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/thumbs/doma.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/doma1.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/doma2.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/doma3.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/doma4.jpg"
+   ]
+  },
+  {
+   "oldPostId": "post_69658cb1ee89ae67",
+   "originalDate": "2026-10-30 14:00",
+   "title": "창틀 청소, 겨울에 창문 닫아 두기 전 해 둘 4가지",
+   "tags": [
+    "창틀청소",
+    "창문레일청소",
+    "방충망청소",
+    "겨울맞이청소",
+    "늦가을살림",
+    "살림팁",
+    "살림한수"
+   ],
+   "content": "![창문 닫기 전 창틀부터 닦아요 썸네일](media:{{IMG0}})\n\n날이 추워지면 창문을 닫아 두는 날이 많아져요. 그 전에 창틀과 레일에 쌓인 흙먼지를 걷어 두면 겨울 내내 창문 여닫기도 한결 부드러워요. 늦가을에 해 두면 좋은 창틀 청소 순서를 정리했어요.\n\n---{.line1}\n\n**마른 먼지를 먼저 걷어내요**\n\n![마른 먼지 먼저 걷어내요 요약 카드](media:{{IMG1}})\n\n1. 청소기 좁은 노즐로 레일의 흙먼지 빨아들이기\n2. 구석에 낀 먼지는 작은 솔로 쓸어 모으기\n3. 물부터 붓지 않기\n\n먼지가 쌓인 상태에서 물을 먼저 부으면 흙탕물이 되어 구석에 더 달라붙어요. 마른 먼지를 최대한 걷어낸 뒤에 닦아 주세요.\n\n---{.line1}\n\n**레일 홈은 닦고 말려요**\n\n![레일 홈은 닦고 말려요 요약 카드](media:{{IMG2}})\n\n- 물에 적셔 꼭 짠 천으로 레일을 따라 닦기\n- 손이 안 닿는 모서리는 면봉이나 천을 감은 젓가락으로 닦기\n- 마지막에 마른 천으로 물기 없이 닦아 마무리하기\n\n창틀에 물기가 남으면 겨울철 결로와 겹쳐 곰팡이가 생기기 쉬우니 꼭 말려 주세요.\n\n---{.line1}\n\n**방충망도 함께 봐요**\n\n![방충망도 함께 봐요 요약 카드](media:{{IMG3}})\n\n창틀을 닦는 김에 방충망도 살펴봐요. 먼지는 부드러운 솔로 위에서 아래로 털어 내고, 찢어지거나 들뜬 곳은 없는지 확인해요. 망과 창틀 사이에 틈이 있으면 보수 테이프 등으로 막아 두면 좋아요.\n\n---{.line1}\n\n**이건 주의해요**\n\n![창틀 청소 주의 카드](media:{{IMG4}})\n\n- 바깥쪽을 닦으려고 창밖으로 몸을 내밀지 않기\n- 손이 닿지 않는 높은 창은 무리하지 말고 안쪽만 하기\n- 세제를 쓴다면 라벨의 용도와 사용법 먼저 확인하기\n- 고층 바깥 유리는 전문 업체나 관리사무소에 문의하기\n\n창틀 청소는 안전이 먼저예요. 손 닿는 곳까지만 해도 충분해요.\n\n오늘은 창문 하나만 골라 레일의 마른 먼지부터 걷어내 보세요.",
+   "images": [
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/thumbs/changteul.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/changteul1.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/changteul2.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/changteul3.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/changteul4.jpg"
+   ]
+  },
+  {
+   "oldPostId": "post_5e786b58e45ed1be",
+   "originalDate": "2026-10-30 18:00",
+   "title": "선풍기 정리, 겨울 오기 전 먼지 닦고 넣는 4가지",
+   "tags": [
+    "선풍기청소",
+    "선풍기보관",
+    "선풍기정리",
+    "계절가전",
+    "가전관리",
+    "살림팁",
+    "살림한수"
+   ],
+   "content": "![선풍기 넣기 전 먼지부터 닦아요 썸네일](media:{{IMG0}})\n\n여름 내내 쓰고 거실 구석에 세워 둔 선풍기, 아직 그대로 있나요? 먼지가 앉은 채 넣어 두면 내년에 꺼낼 때 손이 두 번 가요. 겨울 오기 전에 선풍기를 깨끗하게 정리해 넣는 순서를 모았어요.\n\n---{.line1}\n\n**플러그부터 뽑아요**\n\n![플러그부터 뽑아요 요약 카드](media:{{IMG1}})\n\n1. 전원을 끄고 플러그를 콘센트에서 뽑기\n2. 날개가 완전히 멈춘 뒤에 손대기\n3. 분리 방법은 제품 설명서로 미리 확인하기\n\n선풍기마다 망과 날개를 여는 방식이 달라요. 설명서가 없다면 제조사 안내를 찾아보고 시작하면 부품이 상할 일이 줄어요.\n\n---{.line1}\n\n**망과 날개를 나눠 닦아요**\n\n![망과 날개 나눠 닦아요 요약 카드](media:{{IMG2}})\n\n- 분리되는 앞뒤 망은 떼어서 먼지를 털고 닦기\n- 날개는 부드러운 천으로 한 장씩 닦기\n- 물로 씻은 부품은 물기가 완전히 마를 때까지 두기\n\n모터가 든 본체는 물에 닿지 않게 하고, 마른 천이나 살짝 적신 뒤 꼭 짠 천으로 겉만 닦아 주세요.\n\n---{.line1}\n\n**씌워서 보관해요**\n\n![씌워서 보관해요 요약 카드](media:{{IMG3}})\n\n다 마른 선풍기는 커버나 큰 봉투를 씌워 먼지가 앉지 않게 해요. 보관 장소는 습하지 않은 곳이 좋아요. 분리한 나사나 작은 부품은 작은 봉투에 담아 선풍기와 함께 두면 내년에 찾느라 헤매지 않아요.\n\n---{.line1}\n\n**이건 주의해요**\n\n![선풍기 보관 주의 카드](media:{{IMG4}})\n\n- 본체에 물을 붓거나 물에 담그지 않기\n- 전선을 꺾이게 세게 감지 않기\n- 덜 마른 부품을 조립하거나 그대로 넣지 않기\n- 전선 피복이 벗겨졌거나 이상한 소리가 나면 사용 전 점검받기\n\n전기 제품이라 물기와 전선 상태만큼은 꼭 확인하고 넣어 주세요.\n\n오늘은 선풍기 플러그를 뽑고, 망 앞쪽 먼지부터 털어 보세요.",
+   "images": [
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/thumbs/seonpunggi.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/seonpunggi1.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/seonpunggi2.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/seonpunggi3.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/seonpunggi4.jpg"
+   ]
+  },
+  {
+   "oldPostId": "post_db2726ef1a411044",
+   "originalDate": "2026-10-31 10:00",
+   "title": "니트 관리, 꺼내 입기 시작할 때 늘어나지 않게 하는 4가지",
+   "tags": [
+    "니트세탁",
+    "니트보관",
+    "니트관리",
+    "겨울옷관리",
+    "빨래팁",
+    "살림팁",
+    "살림한수"
+   ],
+   "content": "![니트 꺼낼 때 걸지 말고 접어요 썸네일](media:{{IMG0}})\n\n아침저녁으로 쌀쌀해지면서 니트를 꺼내는 집이 많아요. 그런데 니트는 다루는 방법에 따라 금방 늘어나거나 줄어들기 쉬운 옷이에요. 꺼내 입기 시작할 때 알아 두면 좋은 니트 관리법을 모았어요.\n\n---{.line1}\n\n**라벨부터 확인해요**\n\n![라벨부터 확인해요 요약 카드](media:{{IMG1}})\n\n1. 물세탁이 되는 옷인지 세탁 라벨 보기\n2. 손세탁이나 울 코스 표시가 있는지 확인하기\n3. 드라이클리닝 표시가 있으면 세탁소에 맡기기\n\n니트는 소재마다 세탁 방법이 달라요. 같은 니트라도 라벨 안내가 다를 수 있으니 빨기 전에 한 번씩 꼭 확인해 주세요.\n\n---{.line1}\n\n**빨 때는 살살 다뤄요**\n\n![빨 때는 살살 다뤄요 요약 카드](media:{{IMG2}})\n\n- 뒤집어서 세탁망에 넣기\n- 손빨래라면 비비지 말고 가볍게 눌러 빨기\n- 물기는 비틀어 짜지 말고 수건으로 눌러 빼기\n\n세게 비비거나 비틀면 올이 엉키고 모양이 틀어지기 쉬워요. 세제는 라벨과 세제 설명에 맞는 것을 쓰면 돼요.\n\n---{.line1}\n\n**눕혀서 말려요**\n\n![눕혀서 말려요 요약 카드](media:{{IMG3}})\n\n젖은 니트를 옷걸이에 걸면 물 무게 때문에 어깨와 길이가 늘어나기 쉬워요. 건조대 위에 평평하게 눕히고 손으로 모양을 잡아 그늘에서 말려 주세요. 다 마른 뒤에도 옷걸이보다는 접어서 서랍이나 선반에 두는 편이 모양이 덜 변해요.\n\n---{.line1}\n\n**이건 주의해요**\n\n![니트 관리 주의 카드](media:{{IMG4}})\n\n- 뜨거운 물로 빨지 않기\n- 건조기는 라벨에 된다고 나와 있을 때만 쓰기\n- 덜 마른 채로 접어 넣지 않기\n\n니트는 열에 약한 소재가 많아서 물 온도와 건조 방법만 조심해도 오래 입을 수 있어요.\n\n오늘은 옷걸이에 걸려 있는 니트 한 벌을 꺼내 개어서 넣어 보세요.",
+   "images": [
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/thumbs/niteu.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/niteu1.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/niteu2.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/niteu3.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/niteu4.jpg"
+   ]
+  },
+  {
+   "oldPostId": "post_49f58ab2fd669bf2",
+   "originalDate": "2026-10-31 14:00",
+   "title": "커튼 세탁, 겨울에 닫아 두기 전 먼지부터 정리하는 4가지",
+   "tags": [
+    "커튼세탁",
+    "커튼청소",
+    "커튼먼지",
+    "겨울살림",
+    "세탁팁",
+    "살림팁",
+    "살림한수"
+   ],
+   "content": "![겨울 커튼 치기 전 먼지부터 털어요 썸네일](media:{{IMG0}})\n\n날이 추워지면 커튼을 닫아 두는 시간이 길어져요. 창가에 계속 걸려 있던 커튼에는 생각보다 먼지가 많이 앉아 있어요. 본격적으로 겨울이 오기 전에 커튼을 한 번 정리해 두는 순서를 모았어요.\n\n---{.line1}\n\n**라벨과 소재 먼저 봐요**\n\n![라벨과 소재 먼저 봐요 요약 카드](media:{{IMG1}})\n\n1. 커튼 안쪽 라벨에서 물세탁이 되는지 확인하기\n2. 코팅된 암막 커튼이나 장식이 붙은 커튼은 따로 확인하기\n3. 라벨이 없거나 헷갈리면 세탁소나 판매처에 물어보기\n\n커튼은 소재와 가공에 따라 세탁 방법이 많이 달라요. 라벨 안내를 먼저 보면 줄어들거나 상할 일을 줄일 수 있어요.\n\n---{.line1}\n\n**걸린 채로 먼지 털어요**\n\n![걸린 채로 먼지 털어요 요약 카드](media:{{IMG2}})\n\n- 청소기 솔 노즐로 먼지 빨아들이기\n- 위에서 아래 방향으로 차례대로\n- 주름 사이와 밑단까지 꼼꼼히\n\n빨기 어려운 커튼이라도 걸린 채로 먼지만 털어 줘도 한결 깔끔해져요. 커튼 레일 위에 쌓인 먼지도 이때 함께 닦아 주세요.\n\n---{.line1}\n\n**뗄 때는 고리부터 빼요**\n\n![뗄 때는 고리부터 빼요 요약 카드](media:{{IMG3}})\n\n물세탁이 되는 커튼이라면 고리나 집게를 모두 빼고 접어서 세탁망에 넣어요. 세탁 코스와 물 온도는 라벨 안내대로 고르면 돼요. 다 빤 커튼은 물기가 완전히 마른 뒤에 다시 걸어 주세요.\n\n---{.line1}\n\n**이건 주의해요**\n\n![커튼 세탁 주의 카드](media:{{IMG4}})\n\n- 바퀴 달린 의자 대신 안정적인 발판 쓰기\n- 크고 무거운 커튼은 혼자 무리해서 떼지 않기\n- 덜 마른 커튼을 그대로 걸지 않기\n\n높은 곳에서 하는 일이라 넘어지지 않게 발밑부터 챙겨 주세요.\n\n오늘은 거실 커튼 안쪽 라벨부터 한 번 확인해 보세요.",
+   "images": [
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/thumbs/keoteun.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/keoteun1.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/keoteun2.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/keoteun3.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/keoteun4.jpg"
+   ]
+  },
+  {
+   "oldPostId": "post_af22fabbdaeb35df",
+   "originalDate": "2026-10-31 18:00",
+   "title": "김치냉장고 청소, 김장 전에 비우고 닦아 둘 4가지",
+   "tags": [
+    "김치냉장고청소",
+    "김치통세척",
+    "김장준비",
+    "주방위생",
+    "가전관리",
+    "살림팁",
+    "살림한수"
+   ],
+   "content": "![김장 전에 김치냉장고 비워요 썸네일](media:{{IMG0}})\n\n김장철이 다가오면 새 김치 넣을 자리부터 걱정되지요. 묵은 김치와 빈 통이 그대로 있으면 자리도 모자라고 냄새도 남기 쉬워요. 김장 전에 김치냉장고를 비우고 닦아 두는 순서를 모았어요.\n\n---{.line1}\n\n**남은 김치 먼저 정리해요**\n\n![남은 김치 먼저 정리해요 요약 카드](media:{{IMG1}})\n\n1. 김치통을 모두 꺼내 상태 살펴보기\n2. 오래된 김치는 앞쪽으로 옮겨 먼저 먹기\n3. 비어 있는 통은 따로 모아 씻을 준비하기\n\n통마다 무엇이 들어 있는지 뚜껑에 적어 두면 김장 뒤에도 찾기 편해요.\n\n---{.line1}\n\n**전원 끄고 안을 닦아요**\n\n![전원 끄고 안을 닦아요 요약 카드](media:{{IMG2}})\n\n- 청소 전 전원을 끄는 방법은 제품 설명서 확인하기\n- 안쪽 벽과 바닥은 부드러운 천으로 닦기\n- 마지막에 마른 천으로 물기 없이 마무리하기\n\n어떤 세정제를 써도 되는지는 제품마다 달라요. 설명서나 제조사 안내를 먼저 보고, 잘 모르겠다면 물에 적셔 꼭 짠 천으로 닦는 것부터 시작해 보세요.\n\n---{.line1}\n\n**김치통도 씻고 말려요**\n\n![김치통도 씻고 말려요 요약 카드](media:{{IMG3}})\n\n김치통 뚜껑의 고무 패킹은 빼서 따로 씻어야 홈 사이 찌꺼기까지 닦여요. 씻은 통과 패킹은 물기가 완전히 마를 때까지 두었다가 끼워 주세요. 씻고 말렸는데도 냄새가 남아 있다면 뚜껑을 연 채 바람 통하는 곳에서 조금 더 말려 보세요.\n\n---{.line1}\n\n**이건 주의해요**\n\n![김치냉장고 청소 주의 카드](media:{{IMG4}})\n\n- 성에나 얼룩을 칼처럼 뾰족한 도구로 긁지 않기\n- 전원부와 콘센트 주변에 물이 닿지 않게 하기\n- 여러 세제를 섞어 쓰지 않기\n\n다 닦은 뒤 전원을 다시 켤 때도 설명서에 나온 순서를 따라 주세요.\n\n오늘은 김치냉장고 문을 열고 김치통 뚜껑마다 이름부터 적어 보세요.",
+   "images": [
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/thumbs/kimchinaengjanggo.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/kimchinaengjanggo1.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/kimchinaengjanggo2.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/kimchinaengjanggo3.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/kimchinaengjanggo4.jpg"
+   ]
+  },
+  {
+   "oldPostId": "post_3cac59980eae9e58",
+   "originalDate": "2026-11-01 10:00",
+   "title": "레인지후드 청소, 겨울 요리 늘기 전 필터 기름때 닦는 4가지",
+   "tags": [
+    "레인지후드청소",
+    "후드필터",
+    "주방청소",
+    "기름때제거",
+    "주방위생",
+    "살림팁",
+    "살림한수"
+   ],
+   "content": "![후드 필터 기름때 닦아요 썸네일](media:{{IMG0}})\n\n날이 추워지면 국과 찌개, 부침 요리가 늘면서 레인지후드도 바빠져요. 필터에 기름때가 쌓이면 끈적이고 냄새도 남기 쉬워요. 겨울 요리가 본격적으로 늘기 전에 후드를 한 번 정리해 두는 순서를 모았어요.\n\n---{.line1}\n\n**설명서부터 확인해요**\n\n![설명서부터 확인해요 요약 카드](media:{{IMG1}})\n\n1. 필터를 빼는 방법이 제품마다 달라서 설명서부터 보기\n2. 필터를 물로 씻어도 되는 종류인지 확인하기\n3. 청소 전에는 후드 전원을 끄고 시작하기\n\n설명서가 없다면 제조사 누리집에서 모델명으로 찾아볼 수 있어요. 필터 종류에 따라 씻는 대신 교체하라고 안내하는 제품도 있어요.\n\n---{.line1}\n\n**필터는 불려서 닦아요**\n\n![필터는 불려서 닦아요 요약 카드](media:{{IMG2}})\n\n씻을 수 있는 필터라면 따뜻한 물에 주방세제를 풀어 잠시 불려 두세요. 굳은 기름때가 부드러워진 뒤 부드러운 솔로 닦으면 힘을 덜 들일 수 있어요. 헹군 다음에는 물기가 다 빠지도록 세워서 말려 주세요.\n\n---{.line1}\n\n**겉면과 안쪽도 닦아요**\n\n![겉면과 안쪽도 닦아요 요약 카드](media:{{IMG3}})\n\n- 겉면은 물에 적셔 꼭 짠 천으로 닦기\n- 버튼과 조명 주변은 물이 스미지 않게 살살 닦기\n- 마지막에 마른 천으로 물기 없이 마무리하기\n\n어떤 세정제를 써도 되는지는 겉면 소재마다 달라요. 잘 모르겠다면 설명서를 먼저 확인해 주세요.\n\n---{.line1}\n\n**이건 주의해요**\n\n![레인지후드 청소 주의 카드](media:{{IMG4}})\n\n- 여러 세제를 섞어 쓰지 않기\n- 필터가 덜 마른 채로 다시 끼우지 않기\n- 높은 곳은 의자 대신 안전한 발판을 쓰기\n\n혼자 하기 어려운 높이라면 무리하지 말고 가족과 함께 해 주세요.\n\n오늘은 후드 필터를 빼는 방법부터 설명서에서 한 번 찾아보세요.",
+   "images": [
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/thumbs/hudeu.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/hudeu1.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/hudeu2.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/hudeu3.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/hudeu4.jpg"
+   ]
+  },
+  {
+   "oldPostId": "post_3c0be7f95c4499ea",
+   "originalDate": "2026-11-01 14:00",
+   "title": "겨울 욕실 관리, 창문 닫는 계절에 물기와 습기 잡는 4가지",
+   "tags": [
+    "겨울욕실관리",
+    "욕실습기",
+    "욕실곰팡이",
+    "욕실환기",
+    "욕실청소",
+    "살림팁",
+    "살림한수"
+   ],
+   "content": "![겨울 욕실 물기부터 잡아요 썸네일](media:{{IMG0}})\n\n추워지면 창문을 닫아 두는 시간이 길어지고, 욕실도 환기가 줄어들기 쉬워요. 샤워 뒤 남은 물기가 오래 머물면 물때와 곰팡이가 생기기 쉬운 환경이 돼요. 겨울 욕실을 뽀송하게 지키는 습관을 정리했어요.\n\n---{.line1}\n\n**샤워 뒤 물기를 밀어요**\n\n![샤워 뒤 물기를 밀어요 요약 카드](media:{{IMG1}})\n\n1. 샤워가 끝나면 벽과 바닥 물기를 밀대나 스퀴지로 밀어 내기\n2. 줄눈과 모서리처럼 물때가 잘 끼는 곳부터 하기\n3. 선반 위 물기도 마른 천으로 한 번 닦기\n\n물기가 적게 남을수록 욕실이 마르는 것도 빨라져요.\n\n---{.line1}\n\n**환풍기를 돌려 둬요**\n\n![환풍기를 돌려 둬요 요약 카드](media:{{IMG2}})\n\n- 샤워가 끝난 뒤에도 환풍기를 한동안 켜 두기\n- 사용하지 않을 때는 욕실 문을 열어 바람이 통하게 하기\n- 환풍기 덮개에 먼지가 쌓였는지 가끔 살펴보기\n\n덮개를 떼어 청소하는 방법은 제품마다 다르니 설명서를 확인해 주세요.\n\n---{.line1}\n\n**젖은 물건은 밖에서 말려요**\n\n![젖은 물건은 밖에서 말려요 요약 카드](media:{{IMG3}})\n\n쓴 수건을 욕실 안에 계속 걸어 두면 잘 마르지 않아요. 바람 통하는 곳으로 꺼내서 말려 주세요. 욕실화는 벽에 세워 물이 빠지게 두고, 샴푸통이나 비누 받침 바닥에 생긴 물때도 그때그때 닦아 주면 좋아요.\n\n---{.line1}\n\n**이건 주의해요**\n\n![겨울 욕실 청소 주의 카드](media:{{IMG4}})\n\n- 여러 세제를 섞어 쓰지 않기\n- 세제로 청소할 때는 문을 열고 환기하기\n- 젖은 손으로 콘센트나 전기 제품 만지지 않기\n\n세제는 제품 라벨에 적힌 사용법과 주의 사항을 먼저 읽고 써 주세요.\n\n오늘은 샤워가 끝난 뒤 벽과 바닥 물기를 한 번 밀어 내 보세요.",
+   "images": [
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/thumbs/yoksil.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/yoksil1.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/yoksil2.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/yoksil3.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/yoksil4.jpg"
+   ]
+  },
+  {
+   "oldPostId": "post_1d559f32b83fd01c",
+   "originalDate": "2026-11-01 18:00",
+   "title": "여름옷 정리, 내년에 꺼낼 때 냄새 없게 넣어 두는 4가지",
+   "tags": [
+    "여름옷정리",
+    "옷장정리",
+    "계절옷정리",
+    "옷보관",
+    "수납정리",
+    "살림팁",
+    "살림한수"
+   ],
+   "content": "![여름옷 빨아서 말려 넣어요 썸네일](media:{{IMG0}})\n\n겨울옷을 꺼내다 보면 옷장 한쪽에 여름옷이 그대로 남아 있지요. 입던 그대로 넣어 두면 내년에 꺼낼 때 얼룩이나 눅눅한 냄새를 만나기 쉬워요. 여름옷을 깔끔하게 넣어 두는 순서를 모았어요.\n\n---{.line1}\n\n**입은 옷은 빨아서 넣어요**\n\n![입은 옷은 빨아서 넣어요 요약 카드](media:{{IMG1}})\n\n1. 한 번 입고 걸어 둔 옷도 넣기 전에 세탁하기\n2. 세탁 라벨을 보고 표시된 방법대로 빨기\n3. 겨드랑이와 목둘레에 얼룩이 남았는지 살펴보기\n\n눈에 잘 안 보이는 땀이나 음식 얼룩도 오래 두면 누렇게 남을 수 있어요. 얼룩이 보이면 넣기 전에 한 번 더 손봐 주세요.\n\n---{.line1}\n\n**완전히 말린 뒤 넣어요**\n\n![완전히 말린 뒤 넣어요 요약 카드](media:{{IMG2}})\n\n- 두꺼운 솔기와 주머니 안쪽까지 말랐는지 확인하기\n- 바람 통하는 곳에서 충분히 말리기\n- 조금이라도 덜 말랐다면 하루 더 말리기\n\n겉은 말라 보여도 속에 남은 습기가 냄새의 원인이 될 수 있어요.\n\n---{.line1}\n\n**종류별로 나눠 담아요**\n\n![종류별로 나눠 담아요 요약 카드](media:{{IMG3}})\n\n상의와 하의, 아이 옷과 어른 옷처럼 나눠 담으면 내년에 찾기가 훨씬 편해요. 상자나 수납함 겉에 무엇이 들었는지 적어 두세요. 너무 꽉 채우면 옷이 구겨지고 바람도 안 통하니 여유를 남겨 주세요.\n\n---{.line1}\n\n**이건 주의해요**\n\n![여름옷 정리 주의 카드](media:{{IMG4}})\n\n- 세탁소 비닐을 씌운 채로 오래 넣어 두지 않기\n- 옷장이나 수납함의 제습제가 가득 찼는지 확인하기\n- 무거운 상자를 높은 곳에 올릴 때 무리하지 않기\n\n제습제는 제품에 적힌 교체 안내를 따라 바꿔 주세요.\n\n오늘은 옷장에 남은 여름옷 가운데 빨지 않은 옷부터 골라내 보세요.",
+   "images": [
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/thumbs/yeoreumot.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/yeoreumot1.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/yeoreumot2.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/yeoreumot3.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/yeoreumot4.jpg"
+   ]
+  },
+  {
+   "oldPostId": "post_906865d5bfaddec1",
+   "originalDate": "2026-11-02 10:00",
+   "title": "가스레인지 청소, 상판과 받침 식은 뒤 안전하게 닦는 4가지",
+   "tags": [
+    "가스레인지청소",
+    "가스레인지상판",
+    "주방청소",
+    "주방위생",
+    "겨울살림",
+    "살림팁",
+    "살림한수"
+   ],
+   "content": "![가스레인지 상판 식은 뒤 닦아요](media:{{IMG0}})\n\n날이 추워지면 국이나 찌개를 끓이는 날이 많아지죠. 그만큼 가스레인지 위에 국물과 기름이 튀는 일도 늘어나요. 오늘은 상판과 받침을 안전하게 닦는 순서를 정리해 볼게요.\n\n**밸브 잠그고 충분히 식혀요**\n\n![밸브 잠그고 식혀요](media:{{IMG1}})\n\n청소는 불을 다 끄고 가스 밸브를 잠근 뒤에 시작해요. 쓰고 난 직후의 상판과 받침은 뜨거워서 닦다가 데기 쉬우니, 손을 대도 될 만큼 완전히 식을 때까지 기다려 주세요. 처음이라면 제품 설명서에서 어떤 부품을 분리할 수 있는지 먼저 확인해 두면 좋아요.\n\n---{.line1}\n\n**받침은 불려서 닦아요**\n\n![받침은 불려서 닦아요](media:{{IMG2}})\n\n냄비를 올려 두는 받침에는 눌어붙은 국물이 잘 남아요.\n\n- 분리할 수 있으면 빼서 개수대로 옮겨요\n- 따뜻한 물에 주방세제를 풀어 잠시 불려요\n- 불은 때를 부드러운 솔이나 수세미로 닦아요\n\n억지로 긁는 것보다 불려서 닦는 쪽이 힘도 덜 들어요.\n\n---{.line1}\n\n**상판은 재질을 보고 닦아요**\n\n![상판은 재질 보고 닦아요](media:{{IMG3}})\n\n상판은 유리, 스테인리스, 법랑처럼 재질이 다양해요. 거친 수세미나 연마제는 표면에 흠집을 낼 수 있으니 설명서에서 쓰면 안 되는 도구가 있는지 확인해 주세요. 대부분은 주방세제를 묻힌 부드러운 천으로 닦고, 깨끗한 물걸레로 세제기를 닦은 뒤 마른 천으로 물기를 마무리하면 돼요.\n\n---{.line1}\n\n**이건 꼭 주의해요**\n\n![가스레인지 청소 주의 사항](media:{{IMG4}})\n\n- 여러 세제를 섞어 쓰지 않아요\n- 버너와 받침은 물기가 완전히 마른 뒤에 다시 끼워요\n- 불꽃 모양이 평소와 다르거나 가스 냄새가 나면 바로 사용을 멈추고 창문을 열어 환기한 뒤, 가스 공급업체나 제조사에 점검을 문의해요\n\n오늘 저녁 설거지가 끝나면, 식은 받침 하나만 빼서 따뜻한 물에 불려 보세요.",
+   "images": [
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/thumbs/gaseureinji.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/gaseureinji1.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/gaseureinji2.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/gaseureinji3.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/gaseureinji4.jpg"
+   ]
+  },
+  {
+   "oldPostId": "post_c01e946769787307",
+   "originalDate": "2026-11-02 14:00",
+   "title": "청소기 흡입력 약해졌을 때, 먼지통과 필터부터 살펴볼 4가지",
+   "tags": [
+    "청소기관리",
+    "청소기필터",
+    "청소기먼지통",
+    "가전관리",
+    "겨울청소",
+    "살림팁",
+    "살림한수"
+   ],
+   "content": "![청소기 흡입력 먼지통부터 봐요](media:{{IMG0}})\n\n창문을 닫아 두는 날이 많아지면 청소기를 돌리는 일도 잦아지죠. 그런데 어느 날부터 먼지가 잘 안 빨린다고 느껴질 때가 있어요. 새로 사기 전에 먼지통, 필터, 헤드부터 차례로 살펴봐요.\n\n**먼지통은 자주 비워요**\n\n![먼지통은 자주 비워요](media:{{IMG1}})\n\n먼지통이 가득 차면 공기가 잘 지나가지 못해 흡입이 약하게 느껴질 수 있어요.\n\n- 표시선까지 차기 전에 비워요\n- 먼지가 날리니 베란다나 쓰레기봉투 가까이에서 털어요\n- 통 안쪽 벽에 붙은 먼지도 한 번씩 살펴봐요\n\n---{.line1}\n\n**필터는 설명서대로 손질해요**\n\n![필터는 설명서대로](media:{{IMG2}})\n\n필터는 제품마다 손질법이 달라요. 물로 씻어도 되는 필터가 있고, 털어서만 써야 하는 필터도 있어요. 설명서에서 세척 가능 여부와 교체 시기를 먼저 확인해 주세요. 물로 씻었다면 그늘에서 속까지 완전히 말린 뒤에 끼워요.\n\n---{.line1}\n\n**헤드 솔에 감긴 것을 빼요**\n\n![헤드 솔에 감긴 것 빼요](media:{{IMG3}})\n\n바닥에 닿는 헤드의 회전 솔에는 머리카락과 실밥이 잘 감겨요. 감긴 채로 두면 솔이 제대로 돌지 않을 수 있어요.\n\n- 솔을 분리할 수 있는지 설명서로 확인해요\n- 감긴 머리카락은 손이나 가위로 조심해서 걷어 내요\n- 바퀴와 흡입구에 낀 먼지도 같이 빼요\n\n---{.line1}\n\n**이건 꼭 주의해요**\n\n![청소기 관리 주의 사항](media:{{IMG4}})\n\n- 손질 전에는 전원을 끄고, 유선은 플러그를 뽑아요. 무선은 설명서에 배터리 분리 안내가 있으면 따라요\n- 덜 마른 필터는 끼우지 않아요\n- 물기나 날카로운 조각, 큰 물건은 빨아들이지 않아요\n\n오늘 청소기를 돌린 뒤에는 헤드를 뒤집어 솔에 감긴 머리카락부터 한 번 걷어 내 보세요.",
+   "images": [
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/thumbs/cheongsogi.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/cheongsogi1.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/cheongsogi2.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/cheongsogi3.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/cheongsogi4.jpg"
+   ]
+  },
+  {
+   "oldPostId": "post_304f19e77c463a3c",
+   "originalDate": "2026-11-02 18:00",
+   "title": "러그 깔기 전에, 꺼낸 날 먼지와 바닥부터 정리하는 4가지",
+   "tags": [
+    "러그관리",
+    "러그세탁",
+    "겨울러그",
+    "겨울살림",
+    "거실정리",
+    "살림팁",
+    "살림한수"
+   ],
+   "content": "![러그 깔기 전에 먼지부터 털어요](media:{{IMG0}})\n\n바닥이 차가워지면 넣어 두었던 러그를 다시 꺼내게 되죠. 오래 접어 두었던 러그는 바로 깔기보다 먼지와 상태부터 살피는 게 좋아요. 깔기 전에 해 두면 겨울 내내 편한 네 가지를 정리했어요.\n\n**꺼내면 먼지부터 털어요**\n\n![꺼내면 먼지부터 털어요](media:{{IMG1}})\n\n보관하는 동안 러그에도 먼지가 쌓여요.\n\n- 바람이 잘 통하는 곳에서 가볍게 털어요\n- 청소기로 앞면과 뒷면을 꼼꼼히 빨아들여요\n- 눅눅한 냄새가 나는지, 얼룩이 없는지 살펴봐요\n\n냄새가 남아 있다면 맑은 날 바람이 잘 드는 곳에 널어 말려 주세요.\n\n---{.line1}\n\n**세탁은 라벨부터 봐요**\n\n![세탁은 라벨부터 봐요](media:{{IMG2}})\n\n러그는 소재와 뒷면 처리 방식에 따라 세탁법이 달라요. 먼저 라벨에서 물세탁이 되는지 확인하고, 물세탁이 안 되거나 크기가 커서 집에서 다루기 어려우면 전문 세탁을 맡기는 편이 안전해요. 빨았다면 속까지 완전히 마른 뒤에 깔아요.\n\n---{.line1}\n\n**깔 자리를 먼저 닦아요**\n\n![깔 자리를 먼저 닦아요](media:{{IMG3}})\n\n러그를 깔면 그 아래는 한동안 닦기 어려워요.\n\n- 깔 자리의 먼지와 머리카락을 먼저 치워요\n- 물걸레질을 했다면 바닥이 마른 뒤에 깔아요\n- 가구 다리가 올라갈 자리도 함께 정해 둬요\n\n---{.line1}\n\n**이건 꼭 주의해요**\n\n![러그 주의 사항](media:{{IMG4}})\n\n- 러그가 밀리면 넘어질 수 있으니, 미끄러지지 않게 미끄럼 방지 패드 등을 활용해요\n- 바닥 난방을 하는 집은 러그와 바닥재 안내에서 난방 바닥에 써도 되는지 확인해요\n- 전기장판이나 전기매트를 러그와 겹쳐 쓸 때는 각 제품 설명서의 안내를 따라요\n\n오늘은 러그를 꺼내기 전에, 깔 자리 바닥부터 한 번 닦아 두세요.",
+   "images": [
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/thumbs/reogeu.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/reogeu1.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/reogeu2.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/reogeu3.jpg",
+    "https://raw.githubusercontent.com/bunzim01/salimnote-media/main/cards_v2/reogeu4.jpg"
+   ]
+  }
+ ]
+}
